@@ -5,7 +5,7 @@
 	<groupId>com.kk</groupId>
 	<artifactId>maven-web-application-kkfunda</artifactId>
 	<packaging>war</packaging>
-	<version>9.9.9-SNAPSHOT</version>
+	<version>1.1.9-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -21,7 +21,7 @@
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.235.6.31:9000/</sonar.host.url>
+		<sonar.host.url>http://52.23.215.159:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Anil7676</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://100.31.213.75:8081/repository/Wesko-r/</url>
+	      <url>http://3.87.170.114:8081/repository/Wesko-r/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://100.31.213.75:8081/repository/Wesko-s/</url>
+	      <url>http://3.87.170.114:8081/repository/wesko-s/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
