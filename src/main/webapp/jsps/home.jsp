@@ -46,8 +46,8 @@
 <body>
 
 <header>
-    <h1>🚀 Indira consulting services 🚀</h1>
-    <h3>Training | Development | Consulting</h3>
+    <h1>🚀 Indira consulting services hyderbad🚀</h1>
+    <h3>eduaction | visa | Consulting</h3>
 </header>
 
 <div class="container">
